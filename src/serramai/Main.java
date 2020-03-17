@@ -10,7 +10,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- * The Main method of the serrama package representing Maizy's Game. In this
+ * The Main method of the serramai package representing Maizy's Game. In this
  * game, the user creates their own player by setting their name and battle
  * stats. Every player has an inventory of Items. There are also EnemyCharacters
  * with which the player can battle with and gain and lose money from. There are

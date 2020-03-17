@@ -16,7 +16,7 @@ import java.util.InputMismatchException;
  *
  * @author mserrao
  */
-abstract class GameCharacter {
+public abstract class GameCharacter {
 
     /**
      * Instance variables of a GameCharacter object. name is a String that
